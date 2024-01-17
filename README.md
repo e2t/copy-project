@@ -1,3 +1,5 @@
+This project has been moved to https://codeberg.org/e2t/copy-project
+
 # Copy-Project
 Макрос для вызова диалога "Копировать проект..." без поиска внешних ссылок.
 
